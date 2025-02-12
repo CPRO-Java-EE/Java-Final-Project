@@ -1,0 +1,7 @@
+com\luv2code\springboot\cruddemo\service\MediaServiceImpl.class
+com\luv2code\springboot\cruddemo\service\MediaService.class
+com\luv2code\springboot\cruddemo\CruddemoApplication.class
+com\luv2code\springboot\cruddemo\dao\MediaRepository.class
+com\luv2code\springboot\cruddemo\rest\MediaRestController.class
+com\luv2code\springboot\cruddemo\ErrorResponse.class
+com\luv2code\springboot\cruddemo\entity\Media.class
